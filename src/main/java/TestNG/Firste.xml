@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="MasterTestsuite">
+<suite-files>
+<suite-file path="C:\Users\chandrahasa\eclipse-workspace\learnSelenium\src\main\java\TestNG\SanityTestSuit.xml"/>
+<suite-file path= "C:\Users\chandrahasa\eclipse-workspace\learnSelenium\src\main\java\TestNG\FunctionalTestSuite.xml"/>
+ </suite-files>
+</suite>

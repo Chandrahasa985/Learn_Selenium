@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<suite name ="Sanity" parallel="tests" thread-count="2">
+<test name="Sanity Testing">
+<classes>
+<class name="TestNG.Login"/>
+
+</classes>
+</test>
+
+<test name="Sanity Testing1">
+<classes>
+<class name="TestNG.SignUp"/>
+</classes>
+</test>
+</suite>
+       
